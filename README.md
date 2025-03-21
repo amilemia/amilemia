@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammed-Amine</h1>
-<h3 align="center">An aspiring Web Developer from Morocco</h3>
+<h3 align="center">A Web Developer from Morocco</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amilemia&label=Profile%20views&color=12b5a2&style=plastic" alt="amilemia" /> </p>
 
