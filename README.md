@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Portfolio Project](Incoming)
 
-- 👨‍💻 All of my projects are available at [Getting Built](Getting Built)
+- 👨‍💻 All of my projects are available at [Getting Built](Incoming)
 
 - 📫 How to reach me **aminemadah2@gmail.com**
 
