@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amilemia&label=Profile%20views&color=0e75b6&style=flat" alt="amilemia" /> </p>
 
-- 🔭 I’m currently working on [Portfolio Project](Incoming)
+- 🔭 I’m currently working on [Portfolio Project](https://github.com/amilemia/m1-portfolio-v1)
 
 - 👨‍💻 All of my projects are available at [Getting Built](Incoming)
 
