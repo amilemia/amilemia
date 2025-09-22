@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Portfolio Project](https://github.com/amilemia/m1-portfolio-v1)
 
-- 👨‍💻 All of my projects are available at [Getting Built](Incoming)
+- 👨‍💻 All of my projects are available at [amilemia.dev](https://amilemia.dev/)
 
 - 📫 How to reach me **aminemadah2@gmail.com**
 
