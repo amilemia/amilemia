@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Amilemia</h1>
+<h1 align="center">Hi 👋, I'm Mohammed-Amine</h1>
 <h3 align="center">A Web Developer from Morocco</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amilemia&label=Profile%20views&color=0e75b6&style=flat" alt="amilemia" /> </p>
@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [amilemia.dev](https://amilemia.dev/)
 
-- 📫 How to reach me **contact@amilemia.dev**
+- 📫 How to reach me **aminemadah2@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
